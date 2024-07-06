@@ -1,0 +1,4 @@
+# 제외
+env/
+.env
+.idea
