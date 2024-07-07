@@ -1,1 +1,5 @@
 langchain-community==0.2.6
+transformers==4.42.3
+pypdf==4.2.0
+unstructured==0.14.9
+tiktoken==0.7.0
