@@ -1,0 +1,5 @@
+LANGCHAIN_TRACING_V2="true"
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY="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"
+LANGCHAIN_PROJECT="ol-dev-project"
+KMP_DUPLICATE_LIB_OK=TRUE
