@@ -4,3 +4,4 @@ pypdf==4.2.0
 unstructured==0.14.9
 tiktoken==0.7.0
 chromadb==0.5.4
+wikipedia==1.4.0
